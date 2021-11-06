@@ -10,6 +10,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "antd": "^4.16.13",
     "expo": "~43.0.0",
     "expo-status-bar": "~1.1.0",
     "react": "17.0.1",
